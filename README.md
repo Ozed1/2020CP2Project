@@ -1,2 +1,5 @@
 # 2020CP2Project
-Tank Game
+## Tank Game
+A multiplayer Tank Game
+
+### Documentation 
